@@ -5,12 +5,12 @@ As instruções completas do desafio estão [aqui](https://app.rocketseat.com.br
 
 ## Layouts
 ### Desktop 1280 x 800
-![Desktop Sidebar Maximizado](https://github.com/jsidegum/projectVetPrivate/blob/master/images/readme/WebSidebarMaximizado.png)
+![Desktop Sidebar Maximizado](https://github.com/jsidegum/projectSidebarVet/blob/master/images/readme/WebSidebarMaximizado.png)
 
-![Desktop Sidebar Minimizado](https://github.com/jsidegum/projectVetPrivate/blob/master/images/readme/WebSidebarMinimizado.png)
+![Desktop Sidebar Minimizado](https://github.com/jsidegum/projectSidebarVet/blob/master/images/readme/WebSidebarMinimizado.png)
 
 ### Mobile 375 x 667
-![Mobile Sidebar Maximizado](https://github.com/jsidegum/projectVetPrivate/blob/master/images/readme/MobileSidebarMaximizado.png)
+![Mobile Sidebar Maximizado](https://github.com/jsidegum/projectSidebarVet/blob/master/images/readme/MobileSidebarMaximizado.png)
 ![Mobile Sidebar Minimizado](https://github.com/jsidegum/projectSidebarVet/blob/master/images/readme/MobileSidebarMinimizado.png)
 
 ## Técnologias utilizadas
