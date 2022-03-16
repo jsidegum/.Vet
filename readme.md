@@ -1,4 +1,7 @@
 # Projeto .VET 
+
+https://jsidegum.github.io/projectSidebarVet/#
+
 .VET é uma aplicação front-end web responsiva que possui um sidebar com opção minimizada e maximizada, construida com base no desafio da [**RocketSeat**](https://www.rocketseat.com.br/).
 
 As instruções completas do desafio estão [aqui](https://app.rocketseat.com.br/discover/challenges/sidebar) (necessário cadastro na plataforma para acesso).
