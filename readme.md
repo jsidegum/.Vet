@@ -1,10 +1,15 @@
 # Projeto .VET 
 
-https://jsidegum.github.io/projectSidebarVet/#
+URL: https://jsidegum.github.io/projectSidebarVet/#
 
 .VET é uma aplicação front-end web responsiva que possui um sidebar com opção minimizada e maximizada, construida com base no desafio da [**RocketSeat**](https://www.rocketseat.com.br/).
 
 As instruções completas do desafio estão [aqui](https://app.rocketseat.com.br/discover/challenges/sidebar) (necessário cadastro na plataforma para acesso).
+
+## Técnologias
+- HTML
+- CSS
+- JS
 
 ## Layouts
 ### Mobile 375 x 667
@@ -16,12 +21,3 @@ As instruções completas do desafio estão [aqui](https://app.rocketseat.com.br
 
 ![Desktop Sidebar Minimizado](https://github.com/jsidegum/projectSidebarVet/blob/master/images/readme/WebSidebarMinimizado.png)
 
-## Técnologias utilizadas
-- HTML
-- CSS
-- JS
-
-## Autora
-Juliana Sidegum
-
-https://www.linkedin.com/in/jsidegum
